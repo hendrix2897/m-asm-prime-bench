@@ -21,5 +21,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: prime-benchmark-mac-arm64
-          path: main
+          path: asm-prime-bench
           retention-days: 5
