@@ -23,3 +23,6 @@ Primes found:      5761455
 
 Time:           18.153635690 s
 
+
+
+To build, just git clone and make. If you do not have the required tools installed, MacOS will install them for you.
